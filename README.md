@@ -7,7 +7,7 @@
     <title>Manzano_Arjay_Louis</title>
 </head>
 <body>
-    <img src="manzano.jpg" alt="Manzano_Arjay_Louis" height="350">
+    <img src="rose.jpg" alt="Manzano_Arjay_Louis" height="350">
     
     <h1>Arjay Louis Manzano</h1>
     <p>
